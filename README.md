@@ -1,1 +1,1 @@
-[Click me](https://cdn.rawgit.com/vicente-gonzalez-ruiz/the_human_visual_system/master/index.html).
+[Click me](https://vicente-gonzalez-ruiz.github.io/human_visual_system/).
