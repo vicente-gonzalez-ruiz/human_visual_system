@@ -1,1 +1,3 @@
-[Click me](https://vicente-gonzalez-ruiz.github.io/human_visual_system/).
+# The Human Visual System
+
+[Click here](https://vicente-gonzalez-ruiz.github.io/human_visual_system/).
